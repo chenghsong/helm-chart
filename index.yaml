@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  aixcoder-statistics:
+  - apiVersion: v2
+    appVersion: 3.3.0
+    created: "2024-01-15T10:30:02.679598+08:00"
+    description: A Helm chart for Kubernetes
+    digest: ed75dd8479216ff0d68c1cb400559aa7de1c3ce15958525bf33245bd39fd5e5b
+    name: aixcoder-statistics
+    type: application
+    urls:
+    - https://chenghsong.github.io/helm-chart/aixcoder-statistics-1.0.0.tgz
+    version: 1.0.0
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-11T16:51:03.502563+08:00"
+    created: "2024-01-15T10:30:02.680492+08:00"
     description: A Helm chart for Kubernetes
     digest: d46006b3a980f32ea34c468f7e2fbbc9b8ed50a0664075ea3433cb209701c2aa
     name: test
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://chenghsong.github.io/helm-chart/test-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-11T16:51:03.501843+08:00"
+generated: "2024-01-15T10:30:02.678882+08:00"
